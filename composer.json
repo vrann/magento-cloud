@@ -25,7 +25,6 @@
         "magento/module-cms-sample-data": "100.3.*",
         "magento/module-configurable-sample-data": "100.3.*",
         "magento/module-downloadable-sample-data": "100.3.*",
-        "magento/module-gift-registry-sample-data": "100.3.*",
         "magento/module-grouped-product-sample-data": "100.3.*",
         "magento/module-msrp-sample-data": "100.3.*",
         "magento/module-multiple-wishlist-sample-data": "100.3.*",
